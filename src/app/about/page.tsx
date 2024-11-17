@@ -1,6 +1,6 @@
 "use client"
 import React from "react";
-import Link from "next/link";
+
 import { TypeAnimation } from "react-type-animation";
 import Image from "next/image";
 
@@ -24,20 +24,20 @@ const About=()=>{
                     <h2 className="mb-6 text-lg md:text-2xl font-bold uppercase text-gray-700 text-center px-32 position-fixed"> Biography</h2>
 
                     <p className="font-medium px-4 md:px-14 mt-1 md:mt-4 ">
-                    Welcome! I'm Asma Ali, and I know I can help your company create stunning visuals.
-                     As someone who has worked in marketing and graphic design for over a decade, I know what brands need to capture their audiences' attention. With my powerful design skills and knack for marketing,
-                     I have the right background for your brand's needs.
+                    Welcome! I&aposm Asma Ali, and I know I can help your company create stunning visuals.
+                     As someone who has worked in marketing and graphic design for over a decade, I know what brands need to capture their audiences&apos attention. With my powerful design skills and knack for marketing,
+                     I have the right background for your brand&apos needs.
 
                     </p>
                     <p className="font-medium px-4 md:px-14 mt-1 md:mt-4">
                     While frontend and graphic design are my two passions, I also enjoy surfing, doing crosswords and exploring the world. I am insanely curious about different cultures, 
-                    so you'll also find my nose buried in a book or travel blog.
+                    so you&aposll also find my nose buried in a book or travel blog.
                     </p>
 
 
                     <p className="font-medium px-4 md:px-14 mt-1 md:mt-4">
-                    When you're ready for your brand to reach its next level of success, call or email me. I have the right tools and expertise to turn your brand into a household name.
-                      See it for yourself in my 'work' section.
+                    When you&apos re ready for your brand to reach its next level of success, call or email me. I have the right tools and expertise to turn your brand into a household name.
+                      See it for yourself in my &aposwork&apos section.
                     </p>
                 </div>
 

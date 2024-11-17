@@ -2,8 +2,8 @@
 
 import React, { useState } from "react";
 import Link from "next/link";
-import { FaDownload } from "react-icons/fa6";
-import { FiMenu } from "react-icons/fi";
+// import { FaDownload } from "react-icons/fa6";
+// import { FiMenu } from "react-icons/fi";
 
 
 

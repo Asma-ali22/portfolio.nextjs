@@ -1,4 +1,4 @@
-import Image from "next/image";
+// import Image from "next/image";
 //import Navbar from "./component/navbar";
 // import { FaDownload } from "react-icons/fa6";
 // import { FiMenu } from "react-icons/fi";

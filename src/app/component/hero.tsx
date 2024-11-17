@@ -16,7 +16,7 @@ const Hero=()=>{
         <div className="max-w-[450px] text-gray-950 flex flex-col gap-[40px]">
             <div>
 
-                <h1 className="text-5xl"> I'm Asma ALI</h1>
+                <h1 className="text-5xl"> I&aposm Asma ALI</h1>
                 <h4 className="text-3xl mt-4 font-medium">
                     
 

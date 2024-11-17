@@ -1,5 +1,6 @@
 import React from "react";
 import { RiLightbulbFlashLine } from "react-icons/ri";
+import Image from "next/image";
 
 const Skills = () => {
   return (
@@ -97,7 +98,7 @@ const Skills = () => {
         <div className="grid grid-cols-3 gap-4 mt-10">
           <div className="row-span-2 relative group mt-10">
 
-            <img src="b11.jpg" height={200} alt="/" />
+            <Image src="b11.jpg" height={200} alt="/" />
             <div className="bg-[#000000bd] absolute w-[100%] h-[100%]
       top-0 opacity-0 transition duration-500 group-hover:opacity-100
       grid place-content-center text-white ">
@@ -110,7 +111,7 @@ const Skills = () => {
 
           <div className="row-span-2 relative group mt-10">
 
-            <img src="/b12.jpg" alt="/" />
+            <Image src="/b12.jpg" alt="/" />
             <div className="bg-[#000000bd] absolute w-[100%] h-[100%]
 top-0 opacity-0 transition duration-500 group-hover:opacity-100
 grid place-content-center text-white ">
@@ -123,7 +124,7 @@ grid place-content-center text-white ">
 
           <div className="row-span-2 relative group mt-10">
 
-            <img src="/b8.webp" alt="/" />
+            <Image src="/b8.webp" alt="/" />
             <div className="bg-[#000000bd] absolute w-[100%] h-[100%]
 top-0 opacity-0 transition duration-500 group-hover:opacity-100
 grid place-content-center text-white ">
@@ -136,7 +137,7 @@ grid place-content-center text-white ">
 
           <div className="row-span-2 relative group mt-10">
 
-            <img src="/b13.png" alt="/" />
+            <Image src="/b13.png" alt="/" />
             <div className="bg-[#000000bd] absolute w-[100%] h-[100%]
 top-0 opacity-0 transition duration-500 group-hover:opacity-100
 grid place-content-center text-white ">
@@ -149,7 +150,7 @@ grid place-content-center text-white ">
 
           <div className="row-span-2 relative group mt-10">
 
-            <img src="/b5.jpg" alt="/" />
+            <Image src="/b5.jpg" alt="/" />
             <div className="bg-[#000000bd] absolute w-[100%] h-[100%]
 top-0 opacity-0 transition duration-500 group-hover:opacity-100
 grid place-content-center text-white ">
@@ -159,7 +160,7 @@ grid place-content-center text-white ">
             </div>
             <div className="row-span-2 relative group mt-10">
 
-            <img src="/b15.webp" alt="/" />
+            <Image src="/b15.webp" alt="/" />
             <div className="bg-[#000000bd] absolute w-[100%] h-[100%]
 top-0 opacity-0 transition duration-500 group-hover:opacity-100
 grid place-content-center text-white ">
